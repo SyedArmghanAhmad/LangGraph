@@ -1,6 +1,12 @@
+streamlit
 python-dotenv
-typing-extensions
-langgraph
+langchain
 langchain-community
 langchain-groq
-ipython
+langgraph
+pypdf
+typing-extensions
+huggingface-hub
+chromadb
+langchain-core
+tiktoken
