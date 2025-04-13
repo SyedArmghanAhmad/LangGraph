@@ -33,8 +33,8 @@ Welcome to the **Futuristic AI Assistant**, a state-of-the-art conversational AI
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/futuristic-ai-assistant.git
-   cd futuristic-ai-assistant
+   git clone https://github.com/SyedArmghanAhmad/LangGraph.git
+   cd LangGraph/LangGraph-Advanced/AiChatBot\ with\ custom\ persistance
    ```
 
 2. Install the required dependencies:
